@@ -15,3 +15,5 @@ The data set will not be included in this repository due to the required space o
 
 The image above shows the successrate of a correct classification of the AI on the dataset, together with the available labels.
 On the right it shows the accuracy chart on a percent basis (i.e 0.8 = 80%), which indicates the amount of times it correctly guessed the label of an image.
+
+Furthermore the scraper will also be uploaded for anyone interested. The same rule applies to the AI. Sensitive information will be replaced with FILL, and the company site scraped from will also be replaced with FILL.
