@@ -4,6 +4,7 @@ Deep Learning Project about building, training and validating a Multi-Label Clas
 This AI is built on the ResNet50V2 model. Implemented in Google Colab (Python), utilizing Keras as our AI framework.
 The output layers are added to make sure the model is trained to find a multi-label classification of the data-set.
 The following picture is the model of the AI:
+
 ![image](https://github.com/MyCoffeeNeedsMoreJava/Multi-Label_Classification_AI/assets/71220495/d9d3f4b6-f0c9-4b38-8a15-5792e5f31e19)
 
 The code is written with google drive cooperation, and will therefore have some empty spots marked with #FILL, where sensitive information used to be (i.e E-mails, drive accounts, etc)
