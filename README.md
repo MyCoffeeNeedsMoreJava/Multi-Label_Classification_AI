@@ -8,7 +8,7 @@ The following picture is the model of the AI:
 
 The code is written with google drive cooperation, and will therefore have some empty spots marked with #FILL, where sensitive information used to be (i.e E-mails, drive accounts, etc)
 
-The data set will not be included in this repository due to the required space of 300.000 images, but the categories can be seen on the diagram below:
+The data set will not be included in this repository due to the required space of 300.000 images, but the categories can be seen on the confusion matrix below:
 
 ![image](https://github.com/MyCoffeeNeedsMoreJava/Multi-Label_Classification_AI/assets/71220495/2f4333c1-1958-4cb0-9f27-7042511a01a5)
 
